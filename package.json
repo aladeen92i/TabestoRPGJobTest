@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "name": "tabestorpgjobtest",
+  "version": "1.0.0",
+  "description": "NodeJS rpg game for a job test",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.0.15",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no build specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aladeen92i/TabestoRPGJobTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aladeen92i/TabestoRPGJobTest/issues"
+  },
+  "homepage": "https://github.com/aladeen92i/TabestoRPGJobTest#readme"
+}
